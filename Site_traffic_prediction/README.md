@@ -1,5 +1,7 @@
 # Project info 
 
+### Tech used: Pandas, Numpy, sklearn
+
 **Project name**: Recipe site traffic prediction  
 
 **Contractor**: Tasty Bytes
